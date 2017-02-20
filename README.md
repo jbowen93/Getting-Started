@@ -96,6 +96,10 @@ Due to personal experience/biases the backend language/framework I will be focus
 Information on golang (referred to simply as Go from here on out) can be found [here](https://golang.org/). 
 I will not be using any batteries included frameworks as they aren't considered idiomatic go. 
 
+For the front end I will obviously be using the standard stack of HTML, CSS and Javascript.
+I will also be using React as the framework for frontend development. 
+This will be paired with Redux for creating SPAs (Single Page Apps).
+
 # Step 1: Getting a grasp on syntax
 
 For a true beginner, with no prior programming experience, code syntax can be daunting. 
@@ -106,7 +110,15 @@ At this time I'm going to recommend starting with Codecademy's Javascript class 
 This is a relatively short tutorial that will give you a good base understanding of the most popular programming language on the planet. 
 Additionally I feel that javascript provides a good balance of C-style syntax while allowing some aspects of functional programming.
 
+In addition to this tutorial you should be somewhat familiar with HTML and CSS, I'll once again recomment Codecademy's course [here](https://www.codecademy.com/learn/learn-html-css).
 
+For Go I believe the best introduction is [A Tour of Go](https://tour.golang.org/welcome/1) followed by 
+[How to Write Go Code](https://golang.org/doc/code.html) and finally [Effective Go](https://golang.org/doc/effective_go.html).
+This should give you a relatively good understanding of the syntax and some of the standard library. 
+
+# Step 2: Basic Golang Web Router
+
+# Step 3: Hello World SPAs
 
 # Miscellaneous skills
 
@@ -120,6 +132,7 @@ A good starting point for this is Codecademy's tutorial [here](https://www.codec
 When playing around on your personal computer you can access the command line through a terminal application.
 
 ## The Cloud
+
 
 
 
